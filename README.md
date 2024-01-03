@@ -1,4 +1,4 @@
-### Hi there! 👋 You have reached Pranav Moses 😁
+### Hi there! 👋, you have reached Pranav Moses 😁
 
 <!--
 **blahblahblah1920/blahblahblah1920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
