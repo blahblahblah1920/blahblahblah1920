@@ -10,11 +10,6 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Pyhton Logo" width="50" height="50"/>   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VS Code" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50" /> <img src="https://github.com/blahblahblah1920/Random-data/blob/main/streamlit-mark-color.png" alt="Streamlit" width="50" height="50" /> <img src="https://github.com/blahblahblah1920/Random-data/blob/main/DS_IBM.png" alt="IBM_DataStage" width="70" height="30" /> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
 
----
-
-[linkedIn](https://www.linkedin.com/in/pranav-moses-2142b7154/)
-
-[HackerRank](https://www.hackerrank.com/profile/pranavabishaimo1)
 
 ---
 
